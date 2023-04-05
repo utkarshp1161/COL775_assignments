@@ -1,2 +1,2 @@
-# COL775_assignments
-COL 775 assignment
+# col775_deep_learning
+Deep learning
